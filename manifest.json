@@ -1,7 +1,7 @@
 {
     "name": "Mergen",
     "short_name": "Mergen",
-    "start_url": "https://mergensoftware.github.io/whoarewe/index.html",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#6C63FF",
     "theme_color": "#6C63FF",
